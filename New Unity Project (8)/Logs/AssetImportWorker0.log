@@ -1,0 +1,1265 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1110; Version 2009; 64bit' Language: 'ko' Physical Memory: 8099 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/xnote/New Unity Project (8)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+14024
+Successfully changed project path to: C:/Users/xnote/New Unity Project (8)
+C:/Users/xnote/New Unity Project (8)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 74.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/xnote/New Unity Project (8)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   
+    VRAM:     2048 MB
+    Driver:   20.19.15.4352
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56212
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011902 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 59.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find bridge dll in registry for Microsoft Visual Studio Tools for Unity for C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+Mono: successfully reloaded assembly
+- Completed reload, in  4.488 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.035250 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.013 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.51 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.3 MB.
+System memory in use after: 65.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1824.
+Total: 4.550100 ms (FindLiveObjects: 0.240800 ms CreateObjectMapping: 0.135600 ms MarkObjects: 4.052800 ms  DeleteObjects: 0.119000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Free_Barrel/Models/Splash.FBX
+  artifactKey: Guid(1a50ff50ca7a0bf4588031760212c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Models/Splash.FBX using Guid(1a50ff50ca7a0bf4588031760212c3a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c5068c18d22abc4e5057daf06c409c') in 1.562364 seconds 
+  Import took 1.566895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001049 seconds.
+  path: Assets/Free_Barrel/Materials/Barrel 1.mat
+  artifactKey: Guid(b627436557539ba42a6af444a92c0b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Materials/Barrel 1.mat using Guid(b627436557539ba42a6af444a92c0b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df68ed62885a678127bc8a1916e0a24') in 0.533882 seconds 
+  Import took 0.553093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Free_Barrel/Materials/Splash.mat
+  artifactKey: Guid(c78fa5a4dfe37a343bcc89776b9ac6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Materials/Splash.mat using Guid(c78fa5a4dfe37a343bcc89776b9ac6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b82f69ecfec5e4b234a87bb6989bac') in 1.119777 seconds 
+  Import took 1.126518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Free_Barrel/Materials
+  artifactKey: Guid(15024fc568568ea4f9401b2d4272e74e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Materials using Guid(15024fc568568ea4f9401b2d4272e74e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b882e6d513328d6be15bc0cf59d9cb77') in 0.023118 seconds 
+  Import took 0.034220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/Free_Barrel/Materials/No Name.mat
+  artifactKey: Guid(5a36aaead3f22574eb2280bba93ed424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Materials/No Name.mat using Guid(5a36aaead3f22574eb2280bba93ed424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e7913ce8e80eec551b2361c04c0f9b') in 0.109745 seconds 
+  Import took 0.116199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/Free_Barrel/Models/barrel.FBX
+  artifactKey: Guid(1768e940ef5fa2d4093cb81fb56533a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Models/barrel.FBX using Guid(1768e940ef5fa2d4093cb81fb56533a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dab3f609f8138f97c06e46664f62342') in 0.118625 seconds 
+  Import took 0.123800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.404173 seconds.
+  path: Assets/Free_Barrel/Prefab/barrel.prefab
+  artifactKey: Guid(aff47d0fca1e53244a323dbd82ddc90a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Prefab/barrel.prefab using Guid(aff47d0fca1e53244a323dbd82ddc90a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0bfd0185f8714685d889ba12d53c6a1') in 0.110389 seconds 
+  Import took 0.121471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Free_Barrel/Prefab/Splash.prefab
+  artifactKey: Guid(ebcf2cb753947f14d9aceef7636cd047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Prefab/Splash.prefab using Guid(ebcf2cb753947f14d9aceef7636cd047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32330a2a407f778803b2796d68d0719') in 0.046377 seconds 
+  Import took 0.052103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.481390 seconds.
+  path: Assets/Kitchen table with chair/ClassicKitchenChair2.png
+  artifactKey: Guid(7c2098209750e3f42a0ef6828deee56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/ClassicKitchenChair2.png using Guid(7c2098209750e3f42a0ef6828deee56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87d1598ab0400fc117ba704d96fa21d') in 0.287866 seconds 
+  Import took 0.293874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045851 seconds.
+  path: Assets/Kitchen table with chair/ClassicRoundTable1.png
+  artifactKey: Guid(caa47f4d35ea4f648ac37268c9fbb018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/ClassicRoundTable1.png using Guid(caa47f4d35ea4f648ac37268c9fbb018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e2c25e3503d1cc25a2dad0d088175e') in 0.029025 seconds 
+  Import took 0.036257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.666330 seconds.
+  path: Assets/Kitchen table with chair/Prefabs
+  artifactKey: Guid(9365346b6ea2c2a4ab919b9aa28c38e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Prefabs using Guid(9365346b6ea2c2a4ab919b9aa28c38e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916150f9b1e811666ceb83dc67603b41') in 0.024776 seconds 
+  Import took 0.035891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058536 seconds.
+  path: Assets/Kitchen table with chair/Prefabs/ClassicKitchenChair2.prefab
+  artifactKey: Guid(c6b698bafc4b05c43a452c3d6dfeb206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Prefabs/ClassicKitchenChair2.prefab using Guid(c6b698bafc4b05c43a452c3d6dfeb206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a498508dec651f3332640e77187cb5') in 0.225204 seconds 
+  Import took 0.230288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Kitchen table with chair/Prefabs/PlateWithFruit.prefab
+  artifactKey: Guid(49f1b2a095d7cc74e8dd6f00fefa1e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Prefabs/PlateWithFruit.prefab using Guid(49f1b2a095d7cc74e8dd6f00fefa1e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e32dce25a7752645c9ef8e453ad3b83') in 0.474099 seconds 
+  Import took 0.478824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Kitchen table with chair/Prefabs/ClassicRoundTable1.prefab
+  artifactKey: Guid(8abce429b9303e14bbc71a3cb6c5cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Prefabs/ClassicRoundTable1.prefab using Guid(8abce429b9303e14bbc71a3cb6c5cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '702daae80a53b17f3c6d360a978946ae') in 0.090174 seconds 
+  Import took 0.095362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.113547 seconds.
+  path: Assets/Medical_Saw/Meshes
+  artifactKey: Guid(01e1affd1f273f6459ccff78d81ca175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Meshes using Guid(01e1affd1f273f6459ccff78d81ca175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa930bc5ea337b833d7f62700801da3') in 0.026138 seconds 
+  Import took 0.035593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.202128 seconds.
+  path: Assets/Medical_Saw/Prefabs
+  artifactKey: Guid(e35a28154a9116e41b6b861c34fb6fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Prefabs using Guid(e35a28154a9116e41b6b861c34fb6fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859edec5844fa385bcc36052ec8fa839') in 0.019197 seconds 
+  Import took 0.026203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061387 seconds.
+  path: Assets/Medical_Saw/Prefabs/Med_Saw_01.prefab
+  artifactKey: Guid(1e1ab22313304824f984d29f24782c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Prefabs/Med_Saw_01.prefab using Guid(1e1ab22313304824f984d29f24782c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caeac60fab013480505e50003baafe63') in 0.045448 seconds 
+  Import took 0.050015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.332099 seconds.
+  path: Assets/Kitchen table with chair/Demo/Default.mat
+  artifactKey: Guid(619c8293f865e3e4bb44226b5e43a1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Demo/Default.mat using Guid(619c8293f865e3e4bb44226b5e43a1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f7096a80d28999b4bc9d01c76049f2') in 0.029974 seconds 
+  Import took 0.034219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 508.998041 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_N.TGA
+  artifactKey: Guid(598acd9ebe884f440a97da6f8426483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_N.TGA using Guid(598acd9ebe884f440a97da6f8426483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe020d286fcf0faecb550fb9f0b716a1') in 0.065592 seconds 
+  Import took 0.079492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076120 seconds.
+  path: Assets/Kitchen table with chair/Models/ClassicKitchenChair2.FBX
+  artifactKey: Guid(34844fab031efd7428463c208a0e841d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Models/ClassicKitchenChair2.FBX using Guid(34844fab031efd7428463c208a0e841d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5236a875ac5d8b965275be9095a16f25') in 0.236110 seconds 
+  Import took 0.243204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018877 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Door_01_Base.prefab
+  artifactKey: Guid(6d0f69892e260164b9b56372f7556fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Door_01_Base.prefab using Guid(6d0f69892e260164b9b56372f7556fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9a82f5a31702fe8b1a56cdf2cf1def8') in 0.226691 seconds 
+  Import took 0.232377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017185 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Bed_Metal_01s.mat
+  artifactKey: Guid(80cb81cea798afb43987837e11469c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Bed_Metal_01s.mat using Guid(80cb81cea798afb43987837e11469c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1599857a9e54b9727a2472b741be55d6') in 0.252415 seconds 
+  Import took 0.261976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016008 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Column_01.prefab
+  artifactKey: Guid(65968727b1724da49a554ba4d50f4ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Column_01.prefab using Guid(65968727b1724da49a554ba4d50f4ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef9d61145bcb8cd724df4ddf2f1804c0') in 0.106195 seconds 
+  Import took 0.111594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017729 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Module_DoorRoom_01.obj
+  artifactKey: Guid(0d79e6eeb6fa3724482d6c497796a964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Module_DoorRoom_01.obj using Guid(0d79e6eeb6fa3724482d6c497796a964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd844da9f407823be4dd291ee227a37df') in 0.208001 seconds 
+  Import took 0.213142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032036 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_R.TGA
+  artifactKey: Guid(300acc0be6e47024690a4baa38095d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_R.TGA using Guid(300acc0be6e47024690a4baa38095d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8079d45ec04a3fe93395e196f51faae3') in 0.042771 seconds 
+  Import took 0.048979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020310 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Door_01_.prefab
+  artifactKey: Guid(df2f14ece3a3a0847aad4f1407b39c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Door_01_.prefab using Guid(df2f14ece3a3a0847aad4f1407b39c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e011eb2913553f8cac338b0ae86eff') in 0.304121 seconds 
+  Import took 0.311333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013648 seconds.
+  path: Assets/Kitchen table with chair/Materials/PlateWithFruit_base.mat
+  artifactKey: Guid(246a9c06b61dce044ac4f83bd7461fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Materials/PlateWithFruit_base.mat using Guid(246a9c06b61dce044ac4f83bd7461fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3b5e9cd76f3bce59c034c0f874ce7f') in 0.034277 seconds 
+  Import took 0.038843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028923 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Lamp.png
+  artifactKey: Guid(7d080a928d4dfe9469d81fcb65783a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Lamp.png using Guid(7d080a928d4dfe9469d81fcb65783a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc568e1d6171b440b24d24111e59f582') in 0.027181 seconds 
+  Import took 0.035245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014036 seconds.
+  path: Assets/Medical_Saw/Materials
+  artifactKey: Guid(3244250df813f6a4f88a092b7d1ef713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Materials using Guid(3244250df813f6a4f88a092b7d1ef713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7302c18ddb86cb6735b538e4f21c854a') in 0.009712 seconds 
+  Import took 0.015930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009324 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/M_BedBedding.mat
+  artifactKey: Guid(96ad2410114456e40aa2cc44f2fe16c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/M_BedBedding.mat using Guid(96ad2410114456e40aa2cc44f2fe16c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0210eac5476c10dce9dde88d88c0937') in 0.200102 seconds 
+  Import took 0.206005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031916 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_MR.tga
+  artifactKey: Guid(ace021d20dc4fee42905fc84d876b02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_MR.tga using Guid(ace021d20dc4fee42905fc84d876b02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '399ee02a6f3286dfb10bd59eb81dcd6e') in 0.037833 seconds 
+  Import took 0.042080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009959 seconds.
+  path: Assets/Free_Barrel/Textures
+  artifactKey: Guid(6335e58c9b8a75d4b9c213567aec6324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Textures using Guid(6335e58c9b8a75d4b9c213567aec6324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53fcbc81c3382034d00569f1622b3d24') in 0.012368 seconds 
+  Import took 0.016140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026557 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Bed_01.obj
+  artifactKey: Guid(b47f5c9ac3a4adc4582f259efbe3c8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Bed_01.obj using Guid(b47f5c9ac3a4adc4582f259efbe3c8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2cf496d4575ab5f8d16a93c5f0dedcd') in 0.058089 seconds 
+  Import took 0.063881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014327 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_BedBedding_01.obj
+  artifactKey: Guid(92a399879ec49094b8bd5109dd1d830e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_BedBedding_01.obj using Guid(92a399879ec49094b8bd5109dd1d830e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495aedb4fed6b449aabb0d3d6927bea0') in 0.047978 seconds 
+  Import took 0.053343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015791 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Lamp.obj
+  artifactKey: Guid(99d1229755c80d54d975792177cdddee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Lamp.obj using Guid(99d1229755c80d54d975792177cdddee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad9fe2376853b98bda9d839af0bdafa') in 0.053162 seconds 
+  Import took 0.058976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045800 seconds.
+  path: Assets/Kitchen table with chair/Textures/ClassicKitchenChair2_n.png
+  artifactKey: Guid(f5cfa26eec65d574f9402a1e7220785a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures/ClassicKitchenChair2_n.png using Guid(f5cfa26eec65d574f9402a1e7220785a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6628f442e49bffbd7544e0c37a4633a') in 0.034751 seconds 
+  Import took 0.038918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014720 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Map_Hosp1Settings.lighting
+  artifactKey: Guid(6d21b687c0bc562418fa5c8f3836b78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Map_Hosp1Settings.lighting using Guid(6d21b687c0bc562418fa5c8f3836b78d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '94e4bd607ebc4f983a428aa5d22b6244') in 0.027230 seconds 
+  Import took 0.032411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016477 seconds.
+  path: Assets/Kitchen table with chair/Textures/PlateWithFruit_d.png
+  artifactKey: Guid(a453ecb69b696504bb4889cb995a681c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures/PlateWithFruit_d.png using Guid(a453ecb69b696504bb4889cb995a681c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bdf08a963fd271e1fa27ff844017436') in 0.031919 seconds 
+  Import took 0.037087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036240 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Lamp_N.png
+  artifactKey: Guid(75cc079cbae9eca4b923796faecd0ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Lamp_N.png using Guid(75cc079cbae9eca4b923796faecd0ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '482b59b611cdf8e2d5fd0c1d04ea75db') in 0.038539 seconds 
+  Import took 0.043764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013466 seconds.
+  path: Assets/Kitchen table with chair/Models
+  artifactKey: Guid(3f7041321f637b54a8d8ffd59266a2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Models using Guid(3f7041321f637b54a8d8ffd59266a2a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4222b5e1f01ae08c25937505a3515789') in 0.024827 seconds 
+  Import took 0.033346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015901 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Floor_01.obj
+  artifactKey: Guid(3565346867580db48870fbcfd66de77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Floor_01.obj using Guid(3565346867580db48870fbcfd66de77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a14e456fcd40ac973421b787160188') in 0.053041 seconds 
+  Import took 0.059964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015811 seconds.
+  path: Assets/Kitchen table with chair/Demo
+  artifactKey: Guid(a170c68591bb10542985baa189ba34d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Demo using Guid(a170c68591bb10542985baa189ba34d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b468745829e57804c328f3bba3cc0488') in 0.019057 seconds 
+  Import took 0.026353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067081 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01.tga
+  artifactKey: Guid(71fcdacc93daf0e46bca8ddba2ef798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01.tga using Guid(71fcdacc93daf0e46bca8ddba2ef798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d1a7214ebdee2d0c77128b018155b3') in 0.036861 seconds 
+  Import took 0.041798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015338 seconds.
+  path: Assets/Free_Barrel/Textures/barrel_normal.tif
+  artifactKey: Guid(a3cdef10da716d74fb69c4cb85dbc2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Textures/barrel_normal.tif using Guid(a3cdef10da716d74fb69c4cb85dbc2ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5480d4680600681f0687f0029a0dd76a') in 0.117244 seconds 
+  Import took 0.123512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014198 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_BedBedding.prefab
+  artifactKey: Guid(73dd7a893b9f3b547a73fc800af96e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_BedBedding.prefab using Guid(73dd7a893b9f3b547a73fc800af96e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0efb114d126e1e502d8e9631fe48780c') in 0.094195 seconds 
+  Import took 0.100636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014193 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Wall_01.prefab
+  artifactKey: Guid(a73967be39a7cc74ca310e8a9d9de82d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Wall_01.prefab using Guid(a73967be39a7cc74ca310e8a9d9de82d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ef6cee8d84a0d999c922c9cfb681b0') in 0.060967 seconds 
+  Import took 0.066887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018757 seconds.
+  path: Assets/Kitchen table with chair/Materials/ClassicRoundTable1.mat
+  artifactKey: Guid(196f7ca85378c624aa1978ded1b983e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Materials/ClassicRoundTable1.mat using Guid(196f7ca85378c624aa1978ded1b983e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46aaab0134a143b7615816d1eea65594') in 0.080280 seconds 
+  Import took 0.085396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014930 seconds.
+  path: Assets/Medical_Saw/Textures
+  artifactKey: Guid(09bab1c2b68c74647b2782a54e8d1feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Textures using Guid(09bab1c2b68c74647b2782a54e8d1feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ee89284b8975692cb699f1869a4458') in 0.014116 seconds 
+  Import took 0.030913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015999 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Door_01_G.mat
+  artifactKey: Guid(52c326e58d79dae4b84c4fe3a0970284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Door_01_G.mat using Guid(52c326e58d79dae4b84c4fe3a0970284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e92b4bae0dcd310a80f0b17270e4ac0d') in 0.062599 seconds 
+  Import took 0.068233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016763 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Module_DoorRoom_01.prefab
+  artifactKey: Guid(3889b3008743b404aba704ca0f2f2989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Module_DoorRoom_01.prefab using Guid(3889b3008743b404aba704ca0f2f2989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8a3987cd23b402cec20c87a8909f620') in 0.359216 seconds 
+  Import took 0.368365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055457 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_C.tga
+  artifactKey: Guid(f1de0460afd04b642a261aef2e069024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_C.tga using Guid(f1de0460afd04b642a261aef2e069024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8aa230f379ccd36d7a05d0e85917c11') in 0.040610 seconds 
+  Import took 0.049844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022736 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile03.tga
+  artifactKey: Guid(ce657f6d6152f1f4da298034f080aa03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile03.tga using Guid(ce657f6d6152f1f4da298034f080aa03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b6687dde6c8e8f2b2c2f950ad9d47f') in 0.045320 seconds 
+  Import took 0.048992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019038 seconds.
+  path: Assets/Medical_Saw/Textures/Occlusion.png
+  artifactKey: Guid(5e546e16587c5024681487318c7c05b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Textures/Occlusion.png using Guid(5e546e16587c5024681487318c7c05b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64daeb1a6a5f2fc56b762352ca8df531') in 0.030769 seconds 
+  Import took 0.035343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017206 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_G_N.png
+  artifactKey: Guid(96068c214ec55854a9b721fffd6570a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_G_N.png using Guid(96068c214ec55854a9b721fffd6570a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3730936cd31f09d4a808fdcea8de96b5') in 0.029620 seconds 
+  Import took 0.038574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013679 seconds.
+  path: Assets/Free_Barrel/Demo_scene.unity
+  artifactKey: Guid(6aa04537e3cd96f4bae78410acdfec3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Demo_scene.unity using Guid(6aa04537e3cd96f4bae78410acdfec3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfede0132bbe537696db27b067cb9c48') in 0.016221 seconds 
+  Import took 0.020551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014083 seconds.
+  path: Assets/Free_Barrel/Textures/barrel_albedo.tif
+  artifactKey: Guid(1ddabf0beda494f4580a2784ef5d5c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Textures/barrel_albedo.tif using Guid(1ddabf0beda494f4580a2784ef5d5c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7209ad7959a36cb37764a9c0b27ffcb0') in 0.056527 seconds 
+  Import took 0.062910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056938 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime02_N.tga
+  artifactKey: Guid(d1208c33c57b6694aa1982e7193cba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime02_N.tga using Guid(d1208c33c57b6694aa1982e7193cba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05100e77b4e2c4533b794a175c2f8214') in 0.047555 seconds 
+  Import took 0.053177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039212 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_S.tga
+  artifactKey: Guid(78afc70bb0dd78744be4bc4a5446876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_S.tga using Guid(78afc70bb0dd78744be4bc4a5446876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a58e318fe36dc857828a4731e4d0bd69') in 0.035982 seconds 
+  Import took 0.042024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029565 seconds.
+  path: Assets/Medical_Saw/Materials/Mat_Med_Saw_01.mat
+  artifactKey: Guid(ecafb6f4623c3f244a862711c2f92c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Materials/Mat_Med_Saw_01.mat using Guid(ecafb6f4623c3f244a862711c2f92c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cff9ed601e28393114cee7115c348df') in 0.041991 seconds 
+  Import took 0.048234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015925 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/New Material.mat
+  artifactKey: Guid(56b48724ee84a7d42be9499a04d95b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/New Material.mat using Guid(56b48724ee84a7d42be9499a04d95b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16e87652ceb6eccd88dec39f9d6cba1') in 0.036328 seconds 
+  Import took 0.041425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011206 seconds.
+  path: Assets/Kitchen table with chair
+  artifactKey: Guid(95d67e1159f591746984a2ac6ecb82f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair using Guid(95d67e1159f591746984a2ac6ecb82f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac3683be5d6165f02c08a6372724985') in 0.016344 seconds 
+  Import took 0.021406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015141 seconds.
+  path: Assets/Kitchen table with chair/PlateWithFruit.png
+  artifactKey: Guid(27c7e5848fbaac8478d4bd676575fa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/PlateWithFruit.png using Guid(27c7e5848fbaac8478d4bd676575fa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '079bfa613cd7a4f9015f5e826acc1b42') in 0.026132 seconds 
+  Import took 0.030985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033498 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime02_C.tga
+  artifactKey: Guid(ef4dc55c98f1e38479f254791f71a51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime02_C.tga using Guid(ef4dc55c98f1e38479f254791f71a51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c698e6dcebcde2f53e4718cfb7483f3f') in 0.035254 seconds 
+  Import took 0.040469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017729 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Med_box_01.prefab
+  artifactKey: Guid(eeefdd9044a28504abd5e39c9e8fe5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Med_box_01.prefab using Guid(eeefdd9044a28504abd5e39c9e8fe5d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ed75b7ae690d473a59b6c764189898') in 0.052710 seconds 
+  Import took 0.058366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010242 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models
+  artifactKey: Guid(dfcbaf66129769e43bf64d5b73ffa859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models using Guid(dfcbaf66129769e43bf64d5b73ffa859) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833b5c31b14caaa5069917f40597c623') in 0.008216 seconds 
+  Import took 0.013378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014346 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Walllime01_C.mat
+  artifactKey: Guid(8a7f3e3f34602944ca9b0a89e0f7be30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Walllime01_C.mat using Guid(8a7f3e3f34602944ca9b0a89e0f7be30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e156f123408fc1c3c00455d84a713e') in 0.043440 seconds 
+  Import took 0.048547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016260 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/New Material.mat
+  artifactKey: Guid(b348d0830dce8344aa78c533ae8d7e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/New Material.mat using Guid(b348d0830dce8344aa78c533ae8d7e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f56a744ce4eb4869989247d4a90c4790') in 0.032133 seconds 
+  Import took 0.039221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015170 seconds.
+  path: Assets/Free_Barrel/Prefab
+  artifactKey: Guid(d8ff10498829ba848aa8450b06d58115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Prefab using Guid(d8ff10498829ba848aa8450b06d58115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5a35c48eb9adb17c9bafc0924aba39') in 0.017056 seconds 
+  Import took 0.022635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024312 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Bed_Metal_01.mat
+  artifactKey: Guid(ae4076d094d20da4da7dc8fa3ae36015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Bed_Metal_01.mat using Guid(ae4076d094d20da4da7dc8fa3ae36015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6e78a2dcb8b017c9cd2bad1ba500fc') in 0.051308 seconds 
+  Import took 0.061647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044380 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_N.tga
+  artifactKey: Guid(1187c62cb03f7a243bd9b242817bc2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_N.tga using Guid(1187c62cb03f7a243bd9b242817bc2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f439a409ccd15f2badbb8eeea90e7dd6') in 0.031811 seconds 
+  Import took 0.035673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014244 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Column_01.FBX
+  artifactKey: Guid(9287a4cf151cef34fb2bf51cfb3565a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Column_01.FBX using Guid(9287a4cf151cef34fb2bf51cfb3565a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de0e93f7f90610f6c903c0ddd252ecb5') in 0.046712 seconds 
+  Import took 0.051113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015127 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Med_box_01.FBX
+  artifactKey: Guid(18ce9342c786442408d15b750748b72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Med_box_01.FBX using Guid(18ce9342c786442408d15b750748b72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc8cf747274664b12ff88e6be850b3d') in 0.040755 seconds 
+  Import took 0.046507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025351 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_R.TGA
+  artifactKey: Guid(dbe39981618f6f141b9a6aa20aa1ed9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_R.TGA using Guid(dbe39981618f6f141b9a6aa20aa1ed9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2462f97cd57678f3840308a91253c9a2') in 0.035404 seconds 
+  Import took 0.042165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015567 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Floor_02.obj
+  artifactKey: Guid(2ec12a10dd1a99b498eec7fd09146b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Floor_02.obj using Guid(2ec12a10dd1a99b498eec7fd09146b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4dffa99141c4ed1e219f3cf67ae64c8') in 0.076746 seconds 
+  Import took 0.082574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018257 seconds.
+  path: Assets/Medical_Saw/Textures/Albedo.png
+  artifactKey: Guid(7fba71da8f6cc8a45b6c21833eb13a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Textures/Albedo.png using Guid(7fba71da8f6cc8a45b6c21833eb13a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0fa61edb4ce48638c59a172ca1a4189') in 0.038454 seconds 
+  Import took 0.045932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014557 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Lamp.prefab
+  artifactKey: Guid(dc8f3955c063af240afd23143f496335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Lamp.prefab using Guid(dc8f3955c063af240afd23143f496335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31311dfed2a11666dc3539a164387c57') in 0.095191 seconds 
+  Import took 0.100980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034571 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_R.TGA
+  artifactKey: Guid(b8bb4830a55b4464fbf9f91f387148e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_R.TGA using Guid(b8bb4830a55b4464fbf9f91f387148e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c68b6c89c7c71f3051ee4ed39f99d6d') in 0.037759 seconds 
+  Import took 0.043340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018092 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Ceiling_01.obj
+  artifactKey: Guid(fb6d3eae3b4e46e46a8b71b5faa7e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Ceiling_01.obj using Guid(fb6d3eae3b4e46e46a8b71b5faa7e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2afe7ebb1eb14a734a28575c237cd42') in 0.061463 seconds 
+  Import took 0.066178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017366 seconds.
+  path: Assets/Kitchen table with chair/Textures/PlateWithFruit_n.png
+  artifactKey: Guid(8d0cb26e8d9621643acd057903eba278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures/PlateWithFruit_n.png using Guid(8d0cb26e8d9621643acd057903eba278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be5d2f5b3e7ddb1b15be4f443c8cf61') in 0.028672 seconds 
+  Import took 0.032424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013731 seconds.
+  path: Assets/Medical_Saw/Med_Saw_Scene.unity
+  artifactKey: Guid(140b464b788479a46b073ea2f8dbc38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Med_Saw_Scene.unity using Guid(140b464b788479a46b073ea2f8dbc38e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '328249d32eb1047e35dceab2a284f747') in 0.014616 seconds 
+  Import took 0.021991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031019 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01_N.tga
+  artifactKey: Guid(270dba9cddd76504188a0bc9a4718876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01_N.tga using Guid(270dba9cddd76504188a0bc9a4718876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0333f4e7e19e3fd4697455c8a09405c') in 0.033998 seconds 
+  Import took 0.037637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026810 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Map_Hosp1.unity
+  artifactKey: Guid(b6ca1756db6b14945b4116ce8880ae82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Map_Hosp1.unity using Guid(b6ca1756db6b14945b4116ce8880ae82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5531b5e6ec4a1e657e77e1ff0f511e') in 0.013621 seconds 
+  Import took 0.017348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007016 seconds.
+  path: Assets/Kitchen table with chair/Textures
+  artifactKey: Guid(8fe231ec443dfea4b8a2062ec656e409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures using Guid(8fe231ec443dfea4b8a2062ec656e409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cdbbe5a701a53a31f2ef55f4bede9ec') in 0.007202 seconds 
+  Import took 0.010693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009724 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Tile02.mat
+  artifactKey: Guid(6eedf1229b2548749afd34673f053a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Tile02.mat using Guid(6eedf1229b2548749afd34673f053a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d307f607f92291ac8ffda28f93da07a') in 0.034400 seconds 
+  Import took 0.039266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011300 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(b8a37071dfe681048985f67a2a2fc3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(b8a37071dfe681048985f67a2a2fc3d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b470c2c00728991a699190e1b3725a14') in 0.012129 seconds 
+  Import took 0.019643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009417 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Door_01.mat
+  artifactKey: Guid(a79fd100eebc3e946a5d6df1a792fe30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Door_01.mat using Guid(a79fd100eebc3e946a5d6df1a792fe30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd441026806ce8a712db29e68d49f4c9a') in 0.042952 seconds 
+  Import took 0.047035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028321 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_N.tga
+  artifactKey: Guid(9f55a5c8d4742cc47954204866783093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_N.tga using Guid(9f55a5c8d4742cc47954204866783093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e10709fb8ad2e95e89a774fd046fff') in 0.038051 seconds 
+  Import took 0.041880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015518 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Walllime02.mat
+  artifactKey: Guid(dd4ae9458a7d1694c8fa66432938e049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Walllime02.mat using Guid(dd4ae9458a7d1694c8fa66432938e049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38bb096fa66df1d1a777cb656aafd71') in 0.045841 seconds 
+  Import took 0.051926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014755 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/New Material.mat
+  artifactKey: Guid(5b26f520fd146034eaf8d25a476b5779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/New Material.mat using Guid(5b26f520fd146034eaf8d25a476b5779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008955d7af439160cbe1f9a67169d54e') in 0.032333 seconds 
+  Import took 0.039090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019319 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_N.tga
+  artifactKey: Guid(2c2941ed45c0e7f4486cb3adc97f188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_N.tga using Guid(2c2941ed45c0e7f4486cb3adc97f188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be412151bb64456cf9b8ff6ecb5e7d2d') in 0.035808 seconds 
+  Import took 0.042788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038154 seconds.
+  path: Assets/Kitchen table with chair/Textures/ClassicRoundTable1_n.png
+  artifactKey: Guid(102e86789376c47458221aca3537ac50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures/ClassicRoundTable1_n.png using Guid(102e86789376c47458221aca3537ac50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc80b4d114df5813f02e5399a5318323') in 0.042597 seconds 
+  Import took 0.048809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030228 seconds.
+  path: Assets/Free_Barrel/Textures/splash.tif
+  artifactKey: Guid(d309e4ff15cd96d4ab85a6c6adf3ed1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Textures/splash.tif using Guid(d309e4ff15cd96d4ab85a6c6adf3ed1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e555c0014a423df86d1d20b35f65295') in 0.038558 seconds 
+  Import took 0.044200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015223 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Tile01.mat
+  artifactKey: Guid(c062415a802b2f846916a90dadc80f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Tile01.mat using Guid(c062415a802b2f846916a90dadc80f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85408f090508baa59c2d9979e05830f6') in 0.047686 seconds 
+  Import took 0.053037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024726 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a72535b3c5b23bbeeaa71e30133f9ad') in 0.016388 seconds 
+  Import took 0.022150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012128 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Lamp_E.png
+  artifactKey: Guid(fa12d4b1eb5b8f946ac445d33bf0eddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Lamp_E.png using Guid(fa12d4b1eb5b8f946ac445d33bf0eddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baff9211e05e207524fcb94f4add5a50') in 0.030884 seconds 
+  Import took 0.037676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039020 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_N.psd
+  artifactKey: Guid(bfe7e5cf3ad491a4e84b3cb14ce08ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_N.psd using Guid(bfe7e5cf3ad491a4e84b3cb14ce08ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be09b920290412c0ee878025761c7f84') in 0.047582 seconds 
+  Import took 0.052479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020195 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials
+  artifactKey: Guid(0ae0ec82d0397174183a4c45753b8873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials using Guid(0ae0ec82d0397174183a4c45753b8873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af7008eee778b89b484e783a174a2ca') in 0.009107 seconds 
+  Import took 0.014146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009791 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Ceiling_01.prefab
+  artifactKey: Guid(b0f7abaadca23ea4d910efe028624076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Ceiling_01.prefab using Guid(b0f7abaadca23ea4d910efe028624076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6722422442878869dc4698ed398a95') in 0.051730 seconds 
+  Import took 0.057840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011115 seconds.
+  path: Assets/Medical_Saw
+  artifactKey: Guid(26167aa7691ef244a9e8c170e6924e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw using Guid(26167aa7691ef244a9e8c170e6924e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d93e4f2df8576a20802a101fe5f769') in 0.022144 seconds 
+  Import took 0.027821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038532 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01.tga
+  artifactKey: Guid(6febee19ac762cf46aa78cebb2d48dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01.tga using Guid(6febee19ac762cf46aa78cebb2d48dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4efecb3bd967c92503bba31fae1fadf') in 0.042827 seconds 
+  Import took 0.054702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015888 seconds.
+  path: Assets/Free_Barrel/Demo_sceneSettings.lighting
+  artifactKey: Guid(ddbd680191a0bcb4c85380fdf59cad06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Demo_sceneSettings.lighting using Guid(ddbd680191a0bcb4c85380fdf59cad06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '40e52d48d87a41a1338e9a9b7c7f5fc8') in 0.015799 seconds 
+  Import took 0.020338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011515 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Med_box_01.mat
+  artifactKey: Guid(5185afe064a3d8541a43d014b7ed46ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Med_box_01.mat using Guid(5185afe064a3d8541a43d014b7ed46ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fce4f70fbdcfe31a0eecaa933f35224') in 0.062848 seconds 
+  Import took 0.069159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018726 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Module_DoorRoom_02.prefab
+  artifactKey: Guid(78dc1f2f7ef70c74a8ecfc380bab48be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Module_DoorRoom_02.prefab using Guid(78dc1f2f7ef70c74a8ecfc380bab48be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd686641231c23ec33fab428179b81d76') in 0.102419 seconds 
+  Import took 0.112668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025106 seconds.
+  path: Assets/Kitchen table with chair/Models/ClassicRoundTable1.FBX
+  artifactKey: Guid(bd168fc019fa5de48a06efa8fb94aefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Models/ClassicRoundTable1.FBX using Guid(bd168fc019fa5de48a06efa8fb94aefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fc52f8ad83e4b40dd6aac5aa593856') in 0.047271 seconds 
+  Import took 0.053632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015683 seconds.
+  path: Assets/Free_Barrel/Models
+  artifactKey: Guid(c1a42d7b24b7aeb48a7e75bcbe3692ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Models using Guid(c1a42d7b24b7aeb48a7e75bcbe3692ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afae08d1047dadc75faa6bd6814078fd') in 0.012113 seconds 
+  Import took 0.017826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012420 seconds.
+  path: Assets/Kitchen table with chair/Materials/ClassicKitchenChair2.mat
+  artifactKey: Guid(10abe150740a3f74d86a66a20ccf29a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Materials/ClassicKitchenChair2.mat using Guid(10abe150740a3f74d86a66a20ccf29a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7956cf29b75456aa6ff159b024f267b5') in 0.052555 seconds 
+  Import took 0.058101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026070 seconds.
+  path: Assets/Kitchen table with chair/Textures/ClassicRoundTable1_d.png
+  artifactKey: Guid(c223689ff00cdc644becd359dc48ce38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures/ClassicRoundTable1_d.png using Guid(c223689ff00cdc644becd359dc48ce38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5780149f7c6ee3431b8c12f94b9f23') in 0.033939 seconds 
+  Import took 0.038624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026752 seconds.
+  path: Assets/Free_Barrel/Textures/barrel_metallic.tif
+  artifactKey: Guid(db3572f90d95ebc46a513abf417a9936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Textures/barrel_metallic.tif using Guid(db3572f90d95ebc46a513abf417a9936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45110c050755cc69e7f8cc61ead4ac9') in 0.050413 seconds 
+  Import took 0.058166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015488 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack
+  artifactKey: Guid(aa59a38b55a70d243aa6f784238f3ffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack using Guid(aa59a38b55a70d243aa6f784238f3ffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30abbe041d1a807e2e5e659c2e8b45f') in 0.015371 seconds 
+  Import took 0.021091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011685 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Door_01.obj
+  artifactKey: Guid(8c088c51437f8e84c8ccf368945d30c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Door_01.obj using Guid(8c088c51437f8e84c8ccf368945d30c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba5c35dd1b566f49e10e3df8824e7e0') in 0.082664 seconds 
+  Import took 0.087941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013099 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Wall_01.obj
+  artifactKey: Guid(220440116ec5d2f4fa6d4c4b8a9e095b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Wall_01.obj using Guid(220440116ec5d2f4fa6d4c4b8a9e095b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c23cab64845c208512c78642fec31e') in 0.053381 seconds 
+  Import took 0.057089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047490 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_AO.tga
+  artifactKey: Guid(9ff408b0cb141da43ba77e4a49f64c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_AO.tga using Guid(9ff408b0cb141da43ba77e4a49f64c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33fb889b729430aebf538a448656b590') in 0.037151 seconds 
+  Import took 0.040910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033909 seconds.
+  path: Assets/Free_Barrel/Textures/barrelAO.tif
+  artifactKey: Guid(5bacfd5093e552f41ae1fd76f5c8a516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel/Textures/barrelAO.tif using Guid(5bacfd5093e552f41ae1fd76f5c8a516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2043d1f254fd01938bba1dcbf7593816') in 0.045954 seconds 
+  Import took 0.051136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020007 seconds.
+  path: Assets/Kitchen table with chair/Models/PlateWithFruit.FBX
+  artifactKey: Guid(cd5c017944fa8324387550344af1aa8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Models/PlateWithFruit.FBX using Guid(cd5c017944fa8324387550344af1aa8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ec6dc31fa43a776201b3e2342c18a5') in 0.044648 seconds 
+  Import took 0.056511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039076 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_C.TGA
+  artifactKey: Guid(cae203f5c6ff2144a923288d09757339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_C.TGA using Guid(cae203f5c6ff2144a923288d09757339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3cdf90a9982a06f848d8aefdfb72e4') in 0.025352 seconds 
+  Import took 0.029918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014418 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Wall_02.prefab
+  artifactKey: Guid(a71dd1fa6efddfa41990980cd044de47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Wall_02.prefab using Guid(a71dd1fa6efddfa41990980cd044de47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44827a2256abf7d52cf5acc51f9308f6') in 0.046370 seconds 
+  Import took 0.052000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028484 seconds.
+  path: Assets/Kitchen table with chair/Materials
+  artifactKey: Guid(81b922a20e3b2de4f87d45f5044447ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Materials using Guid(81b922a20e3b2de4f87d45f5044447ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9013d313a835003b503f210298550f') in 0.009582 seconds 
+  Import took 0.020542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022755 seconds.
+  path: Assets/Kitchen table with chair/Textures/ClassicKitchenChair2_m.png
+  artifactKey: Guid(1ca42e1c3cb54df4ebd6e6704a527d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures/ClassicKitchenChair2_m.png using Guid(1ca42e1c3cb54df4ebd6e6704a527d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4620a0d207b63b608113dafe7c836a') in 0.037298 seconds 
+  Import took 0.045572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019912 seconds.
+  path: Assets/Medical_Saw/Meshes/SM_Med_Saw_01.FBX
+  artifactKey: Guid(616ff27967cdaec47a445b975772dcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Meshes/SM_Med_Saw_01.FBX using Guid(616ff27967cdaec47a445b975772dcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a1a35a6783793950d9b52f5b5539ec') in 0.077022 seconds 
+  Import took 0.083364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048637 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01_M.tga
+  artifactKey: Guid(4b37689a686d65946bcdd617ca41bf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01_M.tga using Guid(4b37689a686d65946bcdd617ca41bf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b48111e95edc117c3d8b807345c020b') in 0.046952 seconds 
+  Import took 0.053294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012296 seconds.
+  path: Assets/Dnk_Dev
+  artifactKey: Guid(dd5c4c3082f20814bb00cce7d126fa94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev using Guid(dd5c4c3082f20814bb00cce7d126fa94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6546c5f9bbea00ec0828eb7d74dd46d1') in 0.024374 seconds 
+  Import took 0.032372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036041 seconds.
+  path: Assets/Kitchen table with chair/Materials/PlateWithFruit_glass.mat
+  artifactKey: Guid(9e443b774127d364e8de7f8fbf1d2680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Materials/PlateWithFruit_glass.mat using Guid(9e443b774127d364e8de7f8fbf1d2680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac445f906b3f314b0b4d7eb8989cd82f') in 0.063228 seconds 
+  Import took 0.073358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024736 seconds.
+  path: Assets/Medical_Saw/Textures/Normal.png
+  artifactKey: Guid(ecd3ef63c81f9a045ae86aa4e845f170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Textures/Normal.png using Guid(ecd3ef63c81f9a045ae86aa4e845f170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de97747e8f0011c6de81ca596673e7fc') in 0.034706 seconds 
+  Import took 0.041683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017739 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_G.png
+  artifactKey: Guid(1169160aab534cd4aaf32738057f4341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_G.png using Guid(1169160aab534cd4aaf32738057f4341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2a9d75122faed0012a7a4071e30aae') in 0.032829 seconds 
+  Import took 0.037303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015300 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_C.TGA
+  artifactKey: Guid(7b98973f5058c8d489993665865ac405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_C.TGA using Guid(7b98973f5058c8d489993665865ac405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28eb1e2214ac119c815185b24696e530') in 0.028208 seconds 
+  Import took 0.031886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010033 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab
+  artifactKey: Guid(895346604be8a9c4f90a21a4ffc68933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab using Guid(895346604be8a9c4f90a21a4ffc68933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10334ab16cddbc7b9e132246fc7190df') in 0.011836 seconds 
+  Import took 0.021891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015471 seconds.
+  path: Assets/Kitchen table with chair/Textures/PlateWithFruit_m.png
+  artifactKey: Guid(31b6160a5f114d949af1abc451b5a0d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures/PlateWithFruit_m.png using Guid(31b6160a5f114d949af1abc451b5a0d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63abcaa5315debfb9dee72368c8c564') in 0.033746 seconds 
+  Import took 0.037991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018749 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Floor_02.prefab
+  artifactKey: Guid(695e9c39c231cfa41a135e68073a9772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Floor_02.prefab using Guid(695e9c39c231cfa41a135e68073a9772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea16c78ff1eafc138e63a2392ac76bb0') in 0.077837 seconds 
+  Import took 0.095524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063276 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_M.tga
+  artifactKey: Guid(b0d09a717c8c74d429116d820bcf49f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_M.tga using Guid(b0d09a717c8c74d429116d820bcf49f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51698f6c7c9715b34f8c761bdab1a46c') in 0.039158 seconds 
+  Import took 0.048930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051256 seconds.
+  path: Assets/Kitchen table with chair/Textures/ClassicRoundTable1_m.png
+  artifactKey: Guid(f1a5056e552718a4098eb0df8e1ae215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures/ClassicRoundTable1_m.png using Guid(f1a5056e552718a4098eb0df8e1ae215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adcae9596eed5e2c00297275191d3047') in 0.043982 seconds 
+  Import took 0.048969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030162 seconds.
+  path: Assets/Kitchen table with chair/Textures/ClassicKitchenChair2_d.png
+  artifactKey: Guid(94d165fd178b70a4f85e555abcaa642d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Textures/ClassicKitchenChair2_d.png using Guid(94d165fd178b70a4f85e555abcaa642d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ee867382f4f373d5a83f83dfc25712') in 0.033940 seconds 
+  Import took 0.041692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038338 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_N.tga
+  artifactKey: Guid(ac78e263370d86646b803867f58812db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_N.tga using Guid(ac78e263370d86646b803867f58812db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25f6392b25f97f97f5a22c1041ce9ad') in 0.028224 seconds 
+  Import took 0.037923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014697 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Floor_01.prefab
+  artifactKey: Guid(b826295956c65444987d7baae67c5858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Floor_01.prefab using Guid(b826295956c65444987d7baae67c5858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23cc9e49489913143d1a08e34e4f4f6') in 0.049699 seconds 
+  Import took 0.057307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014198 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Wall_02.obj
+  artifactKey: Guid(2e7a8487ab4626741848c28337daebd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Wall_02.obj using Guid(2e7a8487ab4626741848c28337daebd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c8dfe9f393b4346b5740d6e8014d233') in 0.063058 seconds 
+  Import took 0.069245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017845 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Module_DoorRoom_02.obj
+  artifactKey: Guid(2e7ceb9bdea64d749a31eaaf90027994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/SM_Module_DoorRoom_02.obj using Guid(2e7ceb9bdea64d749a31eaaf90027994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be7f7b74e3b9fa355cde74361cbc6b5') in 0.166215 seconds 
+  Import took 0.172424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070234 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding.tga
+  artifactKey: Guid(65fc25f6168a5594f8e69299285e76d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding.tga using Guid(65fc25f6168a5594f8e69299285e76d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5676ab04b4bd104ed2606f37670474a') in 0.060998 seconds 
+  Import took 0.065506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030516 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_A.tga
+  artifactKey: Guid(6a09d6b8923975e4b9af12a04e9d39fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_A.tga using Guid(6a09d6b8923975e4b9af12a04e9d39fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142764b44ec701683961db2c9fa6a76a') in 0.057992 seconds 
+  Import took 0.069824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014116 seconds.
+  path: Assets/Free_Barrel
+  artifactKey: Guid(7bd73211f71010c46ad9339fa0a48d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free_Barrel using Guid(7bd73211f71010c46ad9339fa0a48d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d9ee34da78a49fd87bead613167fd5') in 0.026052 seconds 
+  Import took 0.035790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021199 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile03_N.tga
+  artifactKey: Guid(ebc9188e67cba8944bb3818d0e18fca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile03_N.tga using Guid(ebc9188e67cba8944bb3818d0e18fca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9705ec0e26679f0400f1c608a73f0b18') in 0.039653 seconds 
+  Import took 0.045479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020562 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Lamp_Off.mat
+  artifactKey: Guid(43e1eaee58e6e1f42a8e6d905a406298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Lamp_Off.mat using Guid(43e1eaee58e6e1f42a8e6d905a406298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cfabf67bdba90e643b22052adc222f5') in 0.057468 seconds 
+  Import took 0.061850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032348 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_N.tga
+  artifactKey: Guid(e6c17b59ff07a9e49990101f18210ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_N.tga using Guid(e6c17b59ff07a9e49990101f18210ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670e33f6be5ad640ad7ab0ed066bd925') in 0.036965 seconds 
+  Import took 0.043678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029791 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Bed_01.prefab
+  artifactKey: Guid(2ca85dfd1a5ba8d45b36c20053b13142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Prefab/P_Bed_01.prefab using Guid(2ca85dfd1a5ba8d45b36c20053b13142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e952bf2caac8e5b942b79e6b732858dd') in 0.062155 seconds 
+  Import took 0.072932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030916 seconds.
+  path: Assets/Medical_Saw/Textures/MetallicSmoothness.png
+  artifactKey: Guid(574755944209f4a48b62d7600f2717ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medical_Saw/Textures/MetallicSmoothness.png using Guid(574755944209f4a48b62d7600f2717ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2bac5b8e29ca509963ae2228b67c9ee') in 0.032463 seconds 
+  Import took 0.038561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018581 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Lamp.mat
+  artifactKey: Guid(6a26c29b0186b3949a52130085310c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Lamp.mat using Guid(6a26c29b0186b3949a52130085310c48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8380bef67aa8a6d5c4e2d51bfa1200') in 0.066943 seconds 
+  Import took 0.073827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062624 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_M.psd
+  artifactKey: Guid(933f5a2bcdadaca40a718461c8fe3ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_M.psd using Guid(933f5a2bcdadaca40a718461c8fe3ecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3dfcb8f25d2d02721312df2766c842a') in 0.036506 seconds 
+  Import took 0.041501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013205 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures
+  artifactKey: Guid(94a7a00bb05fa2e44ab3dd420121b030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures using Guid(94a7a00bb05fa2e44ab3dd420121b030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdfd827679d54dfc5e2a838ed3547edc') in 0.008480 seconds 
+  Import took 0.013978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022139 seconds.
+  path: Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Lamp_M.png
+  artifactKey: Guid(b86fb20848ffead4eae4033d276cac3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dnk_Dev/HospitalHorrorPack/Textures/T_Lamp_M.png using Guid(b86fb20848ffead4eae4033d276cac3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d121de1e7e4a456d17bf01abbec7712') in 0.039722 seconds 
+  Import took 0.047714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022237 seconds.
+  path: Assets/Kitchen table with chair/Demo/Demo.unity
+  artifactKey: Guid(643e14b2313d1c847880753d5f8878d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kitchen table with chair/Demo/Demo.unity using Guid(643e14b2313d1c847880753d5f8878d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3e887b416b501e3ab02257cea2ecd3') in 0.018841 seconds 
+  Import took 0.023706 seconds .
+
